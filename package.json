@@ -1,0 +1,11 @@
+{
+  "name": "logseq-datetime-command",
+  "version": "1.0.0",
+  "description": "Command to add current datetime as text",
+  "main": "index.html",
+  "author": "Seryiza",
+  "license": "MIT",
+  "logseq": {
+    "id": "logseq-datetime-command"
+  }
+}
